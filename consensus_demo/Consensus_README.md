@@ -63,9 +63,9 @@ The interface is designed for clarity and modern aesthetics, following these pri
 ![Running the simmulation](screenshots/c-3.png)
 
 
-*Example output for PoW: miner with highest computational power is selected.*
-*Example output for PoS: validator with highest stake selected.*
-*Example output for DPoS: delegate selected based on votes weighted random selection.*
+Example output for PoW: miner with highest computational power is selected.
+Example output for PoS: validator with highest stake selected.
+Example output for DPoS: delegate selected based on votes weighted random selection.
 ---
 
 
@@ -87,4 +87,4 @@ The interface is designed for clarity and modern aesthetics, following these pri
 - Implement other consensus mechanisms like Practical Byzantine Fault Tolerance (PBFT).
 
 
-**Thank you for exploring blockchain consensus mechanisms with this simulator!**
+
