@@ -1,4 +1,4 @@
-# 🧠 Theoretical Part
+# Theoretical Part
 
 ## 1. Blockchain Basics
 **Define blockchain in your own words (100–150 words):**  
