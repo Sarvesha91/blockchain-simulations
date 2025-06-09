@@ -49,8 +49,10 @@ The hero section features a bold, single-line headline with a concise subtitle a
 ---
 
 ### Editing Data in a Block
-
+## Editing in block 0
 ![Editing Block Data](screenshots/image-4.png)
+
+## Subsequent blocks
 
 ![Subsequent blocks Red](screenshots/image-5.png)
 
