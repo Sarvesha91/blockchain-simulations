@@ -48,8 +48,8 @@ _The hero section features a bold, single-line headline with a concise subtitle 
 
 ### Editing Data in a Block
 
-![Editing Block Data](image-4.png)
-![Subsequent blocks Red](image-5.png)
+![Editing Block Data](screenshots/image-4.png)
+![Subsequent blocks Red](screenshots/image-5.png)
 
 _Upon editing the data of a block, its hash updates immediately, the block turns red indicating invalidity, and subsequent blocks also turn red due to broken chain linkage._
 
@@ -57,7 +57,7 @@ _Upon editing the data of a block, its hash updates immediately, the block turns
 
 ### Mining a Block
 
-![Mining Block](![alt text](image-6.png))
+![Mining Block](screenshots/image-6.png)
 
 _Demonstrates the mining operation with a loading state. Upon successful mining, the block is validated (green) and nonce updated accordingly. Downstream blocks are invalidated and require re-mining._
 
