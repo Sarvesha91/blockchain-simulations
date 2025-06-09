@@ -39,11 +39,11 @@ The hero section features a bold, single-line headline with a concise subtitle a
 ---
 
 ### Blockchain Display with All Valid Blocks
-
+## block 0
 ![block 0](screenshots/image-1.png)
-
+## block 1
 ![block 1](screenshots/image-2.png)
-
+## block 2
 ![block 2](screenshots/image-3.png)
 
 ---
