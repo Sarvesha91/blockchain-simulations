@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Consensus Mechanism Simulation</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Consensus Mechanism Simulation</h1>
+      <p>Compare Proof-of-Work (PoW), Proof-of-Stake (PoS), and Delegated Proof-of-Stake (DPoS)</p>
+      <button id="runSim" aria-label="Run consensus simulation">Run Simulation</button>
+    </header>
+    <div class="cards" aria-live="polite" aria-atomic="true" id="resultsContainer">
+      <section class="card" id="powCard" aria-label="Proof of Work simulation">
+        <h2>Proof of Work (PoW)</h2>
+        <ul class="validators-list" id="powValidators" aria-label="List of PoW miners"></ul>
+        <div class="selected" id="powSelected" aria-live="polite"></div>
+        <p class="explanation" id="powExplanation"></p>
+      </section>
+      <section class="card" id="posCard" aria-label="Proof of Stake simulation">
+        <h2>Proof of Stake (PoS)</h2>
+        <ul class="validators-list" id="posValidators" aria-label="List of PoS stakers"></ul>
+        <div class="selected" id="posSelected" aria-live="polite"></div>
+        <p class="explanation" id="posExplanation"></p>
+      </section>
+      <section class="card" id="dposCard" aria-label="Delegated Proof of Stake simulation">
+        <h2>Delegated Proof of Stake (DPoS)</h2>
+        <ul class="validators-list" id="dposValidators" aria-label="List of DPoS voters"></ul>
+        <div class="selected" id="dposSelected" aria-live="polite"></div>
+        <p class="explanation" id="dposExplanation"></p>
+      </section>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+
