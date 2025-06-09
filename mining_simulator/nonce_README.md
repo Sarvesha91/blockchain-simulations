@@ -47,7 +47,7 @@ Each block contains:
 
 ### 🟩 All blocks
 
-![Blocks](n-1.png)
+![Blocks](screenshots/n-1.png)
 
 ### 🟥 Editing Data
 
