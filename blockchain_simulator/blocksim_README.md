@@ -39,20 +39,20 @@ The hero section features a bold, single-line headline with a concise subtitle a
 ---
 
 ### Blockchain Display with All Valid Blocks
-## 1.block 0
+### 1.block 0
 ![block 0](screenshots/image-1.png)
-## 2.block 1
+### 2.block 1
 ![block 1](screenshots/image-2.png)
-## 3.block 2
+### 3.block 2
 ![block 2](screenshots/image-3.png)
 
 ---
 
 ### Editing Data in a Block
-## 1.Editing in block 0
+### 1.Editing in block 0
 ![Editing Block Data](screenshots/image-4.png)
 
-## 2.Subsequent blocks
+### 2.Subsequent blocks
 
 ![Subsequent blocks Red](screenshots/image-5.png)
 
