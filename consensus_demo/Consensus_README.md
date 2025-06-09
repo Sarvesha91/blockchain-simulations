@@ -60,6 +60,9 @@ The interface is designed for clarity and modern aesthetics, following these pri
 ### Run Simulation
 
 ![Running the simmulation](screenshots/c-2.png)
+
+
+
 ![Running the simmulation](screenshots/c-3.png)
 
 
