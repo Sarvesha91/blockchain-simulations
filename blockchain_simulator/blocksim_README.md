@@ -34,7 +34,7 @@ The interface is carefully designed following modern minimalist principles, feat
 ### Hero Section
 
 ![Hero Section](screenshots/image.png)
-_The hero section features a bold, single-line headline with a concise subtitle and a prominent call-to-action button inviting exploration._
+The hero section features a bold, single-line headline with a concise subtitle and a prominent call-to-action button inviting exploration._
 
 ---
 
@@ -51,7 +51,7 @@ _The hero section features a bold, single-line headline with a concise subtitle 
 ![Editing Block Data](screenshots/image-4.png)
 ![Subsequent blocks Red](screenshots/image-5.png)
 
-_Upon editing the data of a block, its hash updates immediately, the block turns red indicating invalidity, and subsequent blocks also turn red due to broken chain linkage._
+Upon editing the data of a block, its hash updates immediately, the block turns red indicating invalidity, and subsequent blocks also turn red due to broken chain linkage.
 
 ---
 
@@ -59,7 +59,7 @@ _Upon editing the data of a block, its hash updates immediately, the block turns
 
 ![Mining Block](screenshots/image-6.png)
 
-_Demonstrates the mining operation with a loading state. Upon successful mining, the block is validated (green) and nonce updated accordingly. Downstream blocks are invalidated and require re-mining._
+Demonstrates the mining operation with a loading state. Upon successful mining, the block is validated (green) and nonce updated accordingly. Downstream blocks are invalidated and require re-mining.
 
 ---
 
