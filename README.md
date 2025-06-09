@@ -53,7 +53,7 @@ The Merkle root acts like a digital fingerprint for all transactions in the bloc
 
 **Why it matters:** If even one transaction changes, the Merkle root becomes completely different. This lets the network quickly verify all transactions are intact without checking each one individually.
 
-## Example: If someone tries to alter "Akshay → Dev 2 BTC" to "Akshay → Dev 20 BTC", the Merkle root won't match, exposing the tampering attempt.
+Example: If someone tries to alter "Akshay → Dev 2 BTC" to "Akshay → Dev 20 BTC", the Merkle root won't match, exposing the tampering attempt.
 
 ## 3. Consensus Conceptualization
 
