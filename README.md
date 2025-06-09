@@ -19,7 +19,25 @@ Medical research is full of trust issues—scientists tweaking data, Big Pharma 
 
 - **Draw a block showing:**
 
-<pre> ``` +---------------- Block #1 ----------------+ | Data: Alice pays Bob 10 BTC | | Prev Hash: 0000xyz456abc789 | | Timestamp: 2025-06-09 12:34:56 | | Nonce: 1023 | | Merkle Root: f1e2d3c4b5a69788 | +-----------------------------------------+ +---------------- Block #2 ----------------+ | Data: Akshay pays Dev 2 BTC | | Prev Hash: 0000xyz456abc789 | | Timestamp: 2025-06-09 12:34:56 | | Nonce: 1023 | | Merkle Root: f1e2d3c4b5a69788 | +-----------------------------------------+ ``` </pre>
++---------------------------------------------+
+| Block #1 |
++---------------------------------------------+
+| Data : "Alice pays Bob 10 BTC" |
+| Prev Hash : 0000xyz456abc789 |
+| Timestamp : 2025-06-09 12:34:56 |
+| Nonce : 1023 |
+| Merkle Root: f1e2d3c4b5a69788 |
++---------------------------------------------+
+
++---------------------------------------------+
+| Block #2 |
++---------------------------------------------+
+| Data : "Akshay pays Dev 2 BTC" |
+| Prev Hash : 0000xyz456abc789 |
+| Timestamp : 2025-06-09 12:34:56 |
+| Nonce : 1023 |
+| Merkle Root: f1e2d3c4b5a69788 |
++---------------------------------------------+
 
 **Briefly explain how the Merkle root helps verify data integrity:**  
 The Merkle root acts like a digital fingerprint for all transactions in the block. Here's how it works:
