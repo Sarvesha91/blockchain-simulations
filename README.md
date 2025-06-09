@@ -1,12 +1,12 @@
 # Theoretical Part
 
 ## 1. Blockchain Basics
-**Define blockchain in your own words (100–150 words):**  
+**Define blockchain:**  
 Blockchain is like a digital record book that everyone in a network can see and trust, but no single person controls. Instead of storing information in one place, it’s spread across many computers, making it nearly impossible to alter or hack. Every transaction gets grouped into a block, and once verified by the network, it’s added to a chain of previous blocks.
 What makes it special is its transparency and security. Since every change is recorded and agreed upon by the network, there’s no need for middlemen like banks to verify transactions. This makes blockchain great for things like cryptocurrency, supply chains, or even voting systems where trust and accuracy matter. Plus, because it cuts out intermediaries, it can save time and reduce costs while keeping data safe from tampering.
 In short, blockchain is a secure, shared system that builds trust without relying on traditional authorities—just a network of users keeping everything honest.
 
-**List 2 real-life use cases (e.g., supply chain, digital identity):**
+**List 2 real-life use cases:**
 1. Fighting Fake Art & Collectibles
 The art world deals with issues like counterfeit paintings, forged signatures and shady auctions. Blockchain fixes this by creating a permanent record of an artwork’s history which is called "provenance". Each piece gets a digital certificate stored on the blockchain, so you can track who owned it, when, and if it’s the real deal. Companies like Verisart use this to verify rare art, sneakers and even vintage wine.
 
