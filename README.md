@@ -24,7 +24,7 @@ Medical research is full of trust issues—scientists tweaking data, Big Pharma 
 | Field       | Value                    |
 |-------------|--------------------------|
 | **Block #** | 1                        |
-| **Data**    | Akshay pays Dev 2 BTC    |
+| **Data**    | Pulashya pays Dev 2 BTC    |
 | **Prev Hash** | 0000xyz456abc789        |
 | **Timestamp** | 2025-06-09 12:34:56    |
 | **Nonce**   | 1023                     |
@@ -39,7 +39,7 @@ The Merkle root acts like a digital fingerprint for all transactions in the bloc
 
 **Why it matters:** If even one transaction changes, the Merkle root becomes completely different. This lets the network quickly verify all transactions are intact without checking each one individually.
 
-Example: If someone tries to alter "Akshay → Dev 2 BTC" to "Akshay → Dev 20 BTC", the Merkle root won't match, exposing the tampering attempt.
+Example: If someone tries to alter "Pulashya → Dev 2 BTC" to "Pulasya→ Dev 20 BTC", the Merkle root won't match, exposing the tampering attempt.
 
 ## 3. Consensus Conceptualization
 
