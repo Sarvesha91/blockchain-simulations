@@ -35,11 +35,11 @@ Each block contains:
 
 ##  Features
 
-✅ Real-time block validation  
-✅ Horizontal block layout for better visibility  
-✅ Persistent mining stats (nonce attempts & time)  
-✅ Editable block data  
-✅ Automatic hash recalculation and propagation
+ Real-time block validation  
+ Horizontal block layout for better visibility  
+ Persistent mining stats (nonce attempts & time)  
+ Editable block data  
+ Automatic hash recalculation and propagation
 
 ---
 
@@ -53,7 +53,7 @@ Each block contains:
 
 ![Invalid Blocks](screenshots/n-2.png)
 
-### ⛏ Mined blocks with nonce attempts and time displayed
+###  Mined blocks with nonce attempts and time displayed
 
 ![Mined Block-0](screenshots/n-3.png)
 ![Mined Block-1](screenshots/n-4.png)
