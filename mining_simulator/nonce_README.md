@@ -1,12 +1,12 @@
-# 🔢 Nonce Mining Simulation – Proof-of-Work Demo
+#  Nonce Mining Simulation – Proof-of-Work Demo
 
-## 📘 Project Objective
+## Project Objective
 
 This project simulates **Proof-of-Work (PoW)** used in blockchain mining. The goal is to find a nonce such that the block’s hash starts with a certain number of zeroes (based on difficulty). This process mimics the computational effort needed in real-world blockchain mining like Bitcoin.
 
 ---
 
-## 🧩 How It Works
+##  How It Works
 
 Each block contains:
 
@@ -17,14 +17,14 @@ Each block contains:
 - Nonce
 - Hash
 
-### 🔍 Proof-of-Work:
+###  Proof-of-Work:
 
 - When you click the **“Mine”** button on a block, the system repeatedly tries different `nonce` values until the hash starts with **4 zeroes** (difficulty = 4).
 - It then shows:
   - Total **Nonce Attempts**
   - **Time Taken** (ms)
 
-### 🔄 Chain Behavior:
+###  Chain Behavior:
 
 - If any block's data is modified:
   - Its hash becomes invalid (red highlight).
@@ -33,7 +33,7 @@ Each block contains:
 
 ---
 
-## 🧪 Features
+##  Features
 
 ✅ Real-time block validation  
 ✅ Horizontal block layout for better visibility  
@@ -43,17 +43,17 @@ Each block contains:
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-### 🟩 All blocks
+###  All blocks
 
 ![Blocks](screenshots/n-1.png)
 
-### 🟥 Editing Data
+###  Editing Data
 
 ![Invalid Blocks](screenshots/n-2.png)
 
-### ⛏️ Mined blocks with nonce attempts and time displayed
+### ⛏ Mined blocks with nonce attempts and time displayed
 
 ![Mined Block-0](screenshots/n-3.png)
 ![Mined Block-1](screenshots/n-4.png)
@@ -61,7 +61,7 @@ Each block contains:
 
 ---
 
-## 🎯 Outcome
+##  Outcome
 
 This project demonstrates:
 
